@@ -1,11 +1,12 @@
 {
-  "name": "git-practice_2",
+  "name": "lesson2",
   "version": "1.0.0",
   "description": "",
   "license": "ISC",
   "author": "",
+  "type": "commonjs",
   "type": "module",
-  "main": "practice.js",
+  "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
