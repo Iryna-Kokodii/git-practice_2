@@ -8,4 +8,5 @@ function generatePassword(length) {
     return password
 }
 
+
 console.log(generatePassword(8))        

@@ -8,6 +8,7 @@ function checkOrder(available, ordered) {
     }
 }
 
+
 console.log(checkOrder(100, 15))
 console.log(checkOrder(10, 0))
 console.log(checkOrder(10, 50))
