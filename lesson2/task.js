@@ -66,6 +66,8 @@ console.log (-Infinity)
 
 //BigInt
 
-const bigNumber1 = 1282937329876876372467236487326n
-const bigNumber2 = 2792464282376872367482367462378428736n
-console.log(bigNumber1+bigNumber2)
+// const bigNumber1 = 1282937329876876372467236487326n
+// const bigNumber2 = 2792464282376872367482367462378428736n
+// console.log(bigNumber1+bigNumber2)
+
+// Symbol
